@@ -1,0 +1,5 @@
+*.ps1
+*.txt
+__pycache__/
+*.pyc
+.DS_Store
